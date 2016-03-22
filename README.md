@@ -1,0 +1,2 @@
+<h1>xSense Particle Connection </h1>
+<p>This max patch uses javascript objects to send XML HTTP requests to the Particle API. Make sure to place the entire repository in the Max 7 directory found in your local documents folder. This patch reads muscle signals from an xSense module and posts Particle events with the incoming data. Please refer to further explanation and documentation <a href='http://paulhershelelsberg.com/Works/Heart/prototypes/clay.html'> here. </a>
